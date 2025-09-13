@@ -1,0 +1,16 @@
+{
+  "_checkout": null,
+  "_output_dir": "C:\\Users\\bhavyakala\\Documents\\Anirudh Singh Siddhu\\Udemy Course\\03 uvProject",
+  "_repo_dir": "C:\\Users\\bhavyakala\\.cookiecutters\\cookiecutter-uv-hypermodern-python",
+  "_template": "gh:bosd/cookiecutter-uv-hypermodern-python",
+  "author": "anirudh",
+  "copyright_year": "2025",
+  "development_status": "Development Status :: 1 - Planning",
+  "email": "anirudhssidhu@gmail.com",
+  "friendly_name": "UV demo",
+  "github_user": "anirudhssidhu",
+  "license": "MIT",
+  "package_name": "uv_demo",
+  "project_name": "uv-learn-project",
+  "version": "0.0.1"
+}
